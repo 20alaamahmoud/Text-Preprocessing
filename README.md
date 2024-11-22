@@ -1,6 +1,5 @@
 # Text-Preprocessing
-Intro to NLP for AI
-Content of Text Processing:
+Intro to NLP for AI, Text Processing Content:
 - Lowercase
 - Removing stop words
 - Regular expressions
